@@ -1,4 +1,6 @@
 # ejs
-Node ejs fun
+Node ejs authentication fun
 
-Simple usage of EJS using a walkthrough from https://scotch.io/tutorials/use-ejs-to-template-your-node-application.
+Simple usage of Authentication Server using a walkthrough from https://scotch.io/tutorials/easy-node-authentication-setup-and-local.
+
+This was mainly used to test expressjs to determine whether to use expressjs or ui-router. 
